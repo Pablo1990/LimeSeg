@@ -14,6 +14,7 @@ import org.scijava.util.ColorRGB;
 import eu.kiaru.limeseg.LimeSeg;
 import eu.kiaru.limeseg.demos.DemoHelper;
 import eu.kiaru.limeseg.struct.CellT;
+import ij.IJ;
 import ij.ImagePlus;
 import ij.gui.OvalRoi;
 import ij.gui.Roi;
